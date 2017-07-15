@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Atom config
+.clang_complete
+
+# VS Code
+.vscode/
+
+# Project
+external/
